@@ -1,6 +1,8 @@
 """Initial setup and library installation"""
 
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 # Load the Data
 #since the file is in the same folder we will use only the name
